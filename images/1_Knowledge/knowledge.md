@@ -1,0 +1,1 @@
+# No images used in knowledge
