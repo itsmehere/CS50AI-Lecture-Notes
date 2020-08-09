@@ -77,6 +77,8 @@ Conclusion: If _P_ is false, then _Q_ can be anything.
 Equivalent to:
 _P_ → _Q_ ∧ _Q_ → _P_
 
+_P_ ↔ _Q_ is true if _P_ and _Q_ are either both true, or both false.
+
 #### Model:
 
 Assignment of a truth value to every propositional symbol (a "possible world").
@@ -267,6 +269,24 @@ Any sentence can be turned into CNF by applying inference rules.
 Example:
 
 (_A_ ∨ _B_ ∨ _C_) ∧ (_D_ ∨ _¬E_) ∧ (_F_ ∨ _G_)
+
+### Conversion to CNF
+
+- Eliminate biconditionals
+  - turn (α ↔ β) into (α → β) ∧ (β → α)
+- Eliminate implications
+  - turn (α → β) into ¬α ∨ β
+- Move ¬ inwards using De Morgan's Laws
+  - e.g. turn ¬(α ∧ β) into ¬α ∨ ¬β
+- Use distributive law to distribute ∨ wherever possible
+
+#### Example
+```
+  (P ∨ Q) → R
+ ¬(P ∨ Q) ∨ R          eliminate implication
+(¬P ∧ ¬Q) ∨ R          De Morgan's Law
+ (¬P ∨ R) ∧ (¬Q ∨ R)   distributive Law
+```
 
 ### Inference by Resolution
 
