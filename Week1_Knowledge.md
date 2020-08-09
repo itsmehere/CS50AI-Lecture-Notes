@@ -77,7 +77,7 @@ Conclusion: If _P_ is false, then _Q_ can be anything.
 Equivalent to:
 _P_ → _Q_ ∧ _Q_ → _P_
 
-Only true if P and Q are the same.
+_P_ ↔ _Q_ is true if _P_ and _Q_ are either both true, or both false.
 
 #### Model:
 
