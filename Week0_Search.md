@@ -159,4 +159,4 @@ An optimization technique for the minimax algorithm that prunes branches in a tr
 
 In our case, minimax will work for a game like tictactoe where the total number of game states is fairly low(255,168). However, just minimax on its own would be of no match against a game like chess where the total number of game states is very high(10<sup>29000</sup>).
 
-Rather than consider every move, Depth-Limited Minimax stops after a certain point an uses an evaluation function that estimates the expected utility of the game from a given state.
+Rather than consider every move, Depth-Limited Minimax stops after a certain point and uses an evaluation function that estimates the expected utility of the game from a given state.
