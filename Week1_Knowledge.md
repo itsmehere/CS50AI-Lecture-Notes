@@ -351,10 +351,10 @@ When `¬A` is true there is a contradiction ∴ `¬A` has to be false meaning `A
 
 #### Propositional Logic
 
-**Constant Symbol:**
+Constant Symbol:
 - represents objects
 
-**Predicate Symbol:**
+Predicate Symbol:
 - represents relations or functions
 - takes an input (e.g. constant symbol) and evaluates to true or false
 
@@ -385,7 +385,7 @@ Example:
 ```
 
 Meaning:
--  For all objects x, if x belongs to Gryffindor, then x does not belong to Hufflepuff.
+- For all objects x, if x belongs to Gryffindor, then x does not belong to Hufflepuff.
 - Anyone in Gryffindor is not in Hufflepuff.
 
 ### **Existential Quantification**
