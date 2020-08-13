@@ -347,9 +347,9 @@ then,
 
 When `¬A` is true there is a contradiction ∴ `¬A` has to be false meaning `A` is true and (A ∨ B) ∧ (¬B ∨ C) ∧ (¬C) entails A.
 
-## **First-Order Logic**
+## First-Order Logic
 
-### **Propositional Logic**
+### Propositional Logic
 
 **Constant Symbol:**
 - represents objects
