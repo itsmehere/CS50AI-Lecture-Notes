@@ -77,7 +77,7 @@ Conclusion: If _P_ is false, then _Q_ can be anything.
 Equivalent to:
 _P_ → _Q_ ∧ _Q_ → _P_
 
-_P_ ↔ _Q_ is true if _P_ and _Q_ are either both true, or both false.
+Biconditionals evaluate to true only if _P_ and _Q_ are the same.
 
 #### Model:
 
@@ -346,3 +346,55 @@ then,
 ```
 
 When `¬A` is true there is a contradiction ∴ `¬A` has to be false meaning `A` is true and (A ∨ B) ∧ (¬B ∨ C) ∧ (¬C) entails A.
+
+## **First-Order Logic**
+
+### **Propositional Logic**
+
+**Constant Symbol:**
+- represents objects
+
+**Predicate Symbol:**
+- represents relations or functions
+- takes an input (e.g. constant symbol) and evaluates to true or false
+
+| Constant Symbol   | Predicate Symbol  |
+|-------------------|-------------------|
+| Minerva           | Person            |
+| Gryffindor        | House             |
+| Hufflepuff        | BelongsTo         |
+
+Example: 
+- **Person** is *true* for Minerva
+- **Person** is *false* for Gryffindor
+- **House** is *false* for Minverva
+- **House** is *true* for Gryffindor
+
+```
+    Person(Minerva)                 =   Minerva is a Person
+    House(Gryffindor)               =   Gryffindor is a House
+    ¬House(Minerva)                 =   Minerva is not a house
+    BelongsTo(Minerva, Gryffindor)  =   Minerva belongs to Gryffindor
+```
+
+### **Universal Quantification**
+**∀x = something is true for *all* values of x**
+
+```
+∀x.BelongsTo(x, Gryffindor) → ¬BelongsTo(x, Hufflepuff)
+```
+
+Meaning:
+-  For all objects x, if x belongs to Gryffindor, then x does not belong to Hufflepuff.
+- Anyone in Gryffindor is not in Hufflepuff.
+
+### **Existential Quantification**
+**Ǝx = something is true for *some* value of x**
+
+```
+Ǝx.House(x) ∧ BelongsTo(Minerva, x)
+```
+Meaning:
+- There exists an object x such that x is a house and Minerva belongs to x
+- Minerva belongs to a house
+
