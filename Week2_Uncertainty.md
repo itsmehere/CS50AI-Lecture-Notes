@@ -293,13 +293,13 @@ The assumption that the evidence variable depends only on the corresponding stat
 **Most Likely**: Given observations from start until now, calculate most likely sequence of states.
 
 <div style="text-align: left">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week1_Knowledge.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week1_Knowledge.md">
     Previous
   </a>
 </div>
 
 <div style="text-align: right">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week3_Optimization.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week3_Optimization.md">
     Next
   </a>
 </div>

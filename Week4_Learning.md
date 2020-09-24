@@ -289,13 +289,13 @@ Since this clustering algorithm is an iterative process, the centers aren't fixe
 ![movedcenters](images/4_Learning/movedcenters.png) → ![movedcenters](images/4_Learning/finalCluster.png)
 
 <div style="text-align: left">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week3_Optimization.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week3_Optimization.md">
     Previous
   </a>
 </div>
 
 <div style="text-align: right">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week5_NeuralNetworks.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week5_NeuralNetworks.md">
     Next
   </a>
 </div>

@@ -276,13 +276,13 @@ function BACKTRACK(assignment, csp)
 ![probFormation](images/3_Optimization/problemFormation.png)
 
 <div style="text-align: left">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week2_Uncertainty.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week2_Uncertainty.md">
     Previous
   </a>
 </div>
 
 <div style="text-align: right">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week4_Learning.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week4_Learning.md">
     Next
   </a>
 </div>

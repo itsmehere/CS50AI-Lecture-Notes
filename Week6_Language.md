@@ -363,7 +363,7 @@ Amazingly, we get "nurse"
 ```
 
 <div style="text-align: left">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week5_NeuralNetworks.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week5_NeuralNetworks.md">
     Previous
   </a>
 </div>

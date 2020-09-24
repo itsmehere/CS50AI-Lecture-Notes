@@ -399,13 +399,13 @@ Meaning:
 - Minerva belongs to a house
 
 <div style="text-align: left">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week0_Search.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week0_Search.md">
     Previous
   </a>
 </div>
 
 <div style="text-align: right">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week2_Uncertainty.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week2_Uncertainty.md">
     Next
   </a>
 </div>

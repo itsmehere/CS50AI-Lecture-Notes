@@ -162,7 +162,7 @@ In our case, minimax will work for a game like tictactoe where the total number 
 Rather than consider every move, Depth-Limited Minimax stops after a certain point and uses an evaluation function that estimates the expected utility of the game from a given state.
 
 <div style="text-align: right">
-  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week1_Knowledge.md">
+  <a href="https://github.com/itsmehere/CS50AI-Lecture-Notes/blob/master/Week1_Knowledge.md">
     Next
   </a>
 </div>
