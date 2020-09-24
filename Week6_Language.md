@@ -361,3 +361,9 @@ Amazingly, we get "nurse"
 ```
 'nurse'
 ```
+
+<div style="text-align: left">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week5_NeuralNetworks.md">
+    Previous
+  </a>
+</div>

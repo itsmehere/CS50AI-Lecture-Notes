@@ -287,3 +287,15 @@ Here is an example where we randomly chose 3 cluster centers and assigned points
 Since this clustering algorithm is an iterative process, the centers aren't fixed to where they are now. As we can see, the data in the red and greed clusters are not very close together. The next step in this process would be to move the cluster centers to the average of all the points in that cluster. Then, re-assign the points to the new clusters and continue this process until no points change in assignment. At this point, we can say that the data is reasonably well clustered.
 
 ![movedcenters](images/4_Learning/movedcenters.png) → ![movedcenters](images/4_Learning/finalCluster.png)
+
+<div style="text-align: left">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week3_Optimization.md">
+    Previous
+  </a>
+</div>
+
+<div style="text-align: right">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week5_NeuralNetworks.md">
+    Next
+  </a>
+</div>

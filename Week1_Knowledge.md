@@ -398,3 +398,14 @@ Meaning:
 - There exists an object x such that x is a house and Minerva belongs to x
 - Minerva belongs to a house
 
+<div style="text-align: left">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week0_Search.md">
+    Previous
+  </a>
+</div>
+
+<div style="text-align: right">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week2_Uncertainty.md">
+    Next
+  </a>
+</div>

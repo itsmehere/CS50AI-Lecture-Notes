@@ -268,3 +268,15 @@ This allows the network to remember information that may be useful when dealing 
 Another major application of recurrent neural networks is video processing. Videos are much harder to process than images because, in images, you can treat each pixel as a value but in videos, they're sequences of images/frames. Each time, the input is a new frame and when the next frame is processed, the network uses information from the previous network and previous input. In the last frame, we can output the final result.
 
 ![multipleInputRecurrent](images/5_NeuralNetworks/multipleInputRecurrent.png)
+
+<div style="text-align: left">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week4_Learning.md">
+    Previous
+  </a>
+</div>
+
+<div style="text-align: right">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week6_Language.md">
+    Next
+  </a>
+</div>

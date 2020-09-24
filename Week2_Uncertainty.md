@@ -291,3 +291,15 @@ The assumption that the evidence variable depends only on the corresponding stat
 **Prediction**: Given observations from start until now, calculate probability for a future state.  
 **Smoothing**: Given observations from start until now, calculate probability for a past state.  
 **Most Likely**: Given observations from start until now, calculate most likely sequence of states.
+
+<div style="text-align: left">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week1_Knowledge.md">
+    Previous
+  </a>
+</div>
+
+<div style="text-align: right">
+  <a href="https://github.com/itsmehere/CS50AI/blob/master/LectureNotes/Week3_Optimization.md">
+    Next
+  </a>
+</div>
