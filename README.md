@@ -6,4 +6,4 @@ The goal here is to give people the ability to quickly skim through topics discu
 
 ## Pull Requests Are Welcome 🎉!
 
-Feel free to add/change stuff in this repo(by opening a pull request) if you feel like some parts aren't clear or topics are missing. Let's make this as detailed and accurate as possible!
+Feel free to add/change stuff in this repo(by opening a pull request) if you feel like some parts aren't clear or topics are missing.
